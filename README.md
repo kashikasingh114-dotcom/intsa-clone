@@ -27,5 +27,5 @@ It allows users to post images, like, comment, follow users, and view profiles.
 - Local file system (images)
 
 ---
-## Author 
+## 👩‍💻 Author 
 - Kashika Singh
